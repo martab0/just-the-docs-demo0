@@ -2,7 +2,9 @@ title: Just the Docs Demo by Marta Bartnicka
 description: A demo for a Jeykll site using the Just the Docs theme for Vistula Students
 theme: just-the-docs
 
-url: https://martab0.github.io/jtd
+url: https://martab0.github.io/just-the-docs-demo0
 
 aux_links:
   Template Repository: https://github.com/martab0/just-the-docs-demo0
+
+color_scheme: dark
