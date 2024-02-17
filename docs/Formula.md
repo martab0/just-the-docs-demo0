@@ -1,7 +1,7 @@
 ---
 title: Markdown with a formula
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 Topic created to publish mathematical formulas from Markdown.

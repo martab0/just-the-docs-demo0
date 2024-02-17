@@ -1,7 +1,7 @@
 ---
 title: Reference page
 layout: default
-parent: Markdown_The_Lesser_Evil
+parent: Markdown The Lesser Evil
 nav_order: 1
 ---
 
