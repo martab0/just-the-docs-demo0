@@ -8,3 +8,5 @@ aux_links:
   Template Repository: https://github.com/martab0/just-the-docs-demo0
 
 color_scheme: dark
+
+heading_anchors: true

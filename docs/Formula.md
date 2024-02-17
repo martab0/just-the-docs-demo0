@@ -4,8 +4,8 @@ layout: default
 nav_order: 2
 ---
 
-Topic created to publish mathematical formulas from Markdown
-
+Topic created to publish mathematical formulas from Markdown.
+See more information about [learning Markdown](Markdown_The_Lesser_Evil#learning).
 
 # Formula as code
 

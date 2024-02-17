@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+nav_order: 1
 ---
 
 There must be some kind of way out of here,  
