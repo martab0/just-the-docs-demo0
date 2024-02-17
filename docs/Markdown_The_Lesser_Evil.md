@@ -1,5 +1,8 @@
-Markdown: The Lesser Evil<!-- omit in toc -->
-===
+---
+title: Markdown The Lesser Evil
+layout: default
+nav_order: 1
+---
 
 # Markdown explained
 

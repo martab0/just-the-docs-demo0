@@ -1,5 +1,9 @@
-Reference
-=========
+---
+title: Reference page
+layout: default
+nav_order: 3
+---
+
 
 This is a reference file for additional information about Markdown.
 

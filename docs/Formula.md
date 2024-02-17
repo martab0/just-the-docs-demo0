@@ -1,13 +1,39 @@
-# This is md with a formula
+---
+title: Markdown with a formula
+layout: default
+nav_order: 2
+---
+
 Topic created to publish mathematical formulas from Markdown
 
-```this is code```
 
-This is `inline code` in a sentence
+# Formula as code
 
-$$math+formula=17$$
+## Codeblock
+
+```
+x+y=17
+\Delta_i
+```
+
+## Inline code 
+
+This is `x+y=17` and `\Delta_i` in a sentence
 
 
-$\Delta_i$
+# Formulas
 
+## Formula block
+
+$$
+x+y=17
+$$
+
+$$
+\Delta_i
+$$
+
+## Inline formula
+
+This is $x+y=17$ and $\Delta_i$ in a sentence
 
