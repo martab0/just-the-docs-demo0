@@ -1,7 +1,8 @@
 ---
 title: Markdown The Lesser Evil
 layout: default
-nav_order: 1
+nav_order: 2
+has_children: true
 ---
 
 # Markdown explained
