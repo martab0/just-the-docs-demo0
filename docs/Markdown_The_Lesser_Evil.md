@@ -9,6 +9,7 @@ has_children: true
 
 ## History
 
+* https://en.wikipedia.org/wiki/Markdown
 * Internet (mail, Usenet, ...)
 * Human-readable documentation (Readme, Relese notes, API documentation, ...)
 
@@ -24,6 +25,8 @@ has_children: true
 * Notepad++ for Windows
 * Sublime for Mac
 * Visual Studio Code for all
+* iA Writer
+* MarkText
 * ~~[Typora](https://typora.io/)~~
 
 ## Learning
