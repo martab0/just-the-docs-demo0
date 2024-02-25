@@ -14,7 +14,7 @@ has_children: true
 
 ## Specification
 
-* [Basics](https://daringfireball.net/projects/markdown/)
+* <a href="http://example.com/" target="_blank">Basics!</a>
 * [CommonMark](https://commonmark.org/)
 * [GitHub](https://github.github.com/gfm/)
 
