@@ -15,9 +15,9 @@ has_children: true
 
 ## Specification
 
-* <a href=https://daringfireball.net/projects/markdown/ target="_blank">Basics of Markdown</a>
-* <a href=https://commonmark.org/ target="_blank">CommonMark</a>
-* <a href=https://github.github.com/gfm/ target="_blank">GitHub</a>
+* <a href="https://daringfireball.net/projects/markdown/" target="_blank">Basics of Markdown</a>
+* <a href="https://commonmark.org/" target="_blank">CommonMark</a>
+* <a href="https://github.github.com/gfm/" target="_blank">GitHub</a>
 
 
 ## Editors
