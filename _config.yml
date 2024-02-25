@@ -11,4 +11,4 @@ color_scheme: dark
 
 heading_anchors: true
 
-aux_links_new_tab: true
+nav_external_links_new_tab: true
