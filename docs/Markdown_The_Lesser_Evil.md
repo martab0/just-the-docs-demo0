@@ -58,5 +58,6 @@ has_children: true
 * Complex tables and other visual elements
 * Complex conditions and reuse
 * Content to be localized
-* [More considerations by 3di](https://3di-info.com/markdown-for-documentation-6-pros-and-5-things-to-consider/){:target="_blank"}
+* <a href="https://3di-info.com/markdown-for-documentation-6-pros-and-5-things-to-consider" target="_blank">More considerations by 3di</a>
+<!-- * [More considerations by 3di](https://3di-info.com/markdown-for-documentation-6-pros-and-5-things-to-consider/) -->
 
